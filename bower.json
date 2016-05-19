@@ -1,0 +1,22 @@
+{
+  "name": "mymsg",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Lucas Dias Lopes <lucas_front@yahoo.com.br>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.6.2",
+    "jquery-ui": "^1.11.4"
+  }
+}
